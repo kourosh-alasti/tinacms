@@ -1,5 +1,13 @@
 # tinacms
 
+## 2.6.3
+
+### Patch Changes
+
+- [#5447](https://github.com/tinacms/tinacms/pull/5447) [`bc986dd`](https://github.com/tinacms/tinacms/commit/bc986dd48f9a7da264281b55926ec51ce1068bb7) Thanks [@kldavis4](https://github.com/kldavis4)! - Fix issue where browser was being closed when adding an embed in the rich text editor
+
+- [#5448](https://github.com/tinacms/tinacms/pull/5448) [`3af2354`](https://github.com/tinacms/tinacms/commit/3af23542b984c10e138d0cf10a165d50b99bb0e9) Thanks [@kldavis4](https://github.com/kldavis4)! - Encode urls in media manager to prevent unsafe characters from breaking images
+
 ## 2.6.2
 
 ### Patch Changes
